@@ -1,0 +1,25 @@
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.deps.json
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.AssemblyInfo.cs
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\refint\PartyGuide.Infrastructure.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\ref\PartyGuide.Infrastructure.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.deps.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\bin\Debug\net7.0\PartyGuide.Infrastructure.pdb
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.sourcelink.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\refint\PartyGuide.Infrastructure.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\PartyGuide.Infrastructure.pdb
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Infrastructure\obj\Debug\net7.0\ref\PartyGuide.Infrastructure.dll

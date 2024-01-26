@@ -1,0 +1,28 @@
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Domain.deps.json
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Domain.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Domain.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Common.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.DataAccess.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Infrastructure.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.DataAccess.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Infrastructure.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\bin\Debug\net7.0\PartyGuide.Common.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.csproj.AssemblyReference.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.AssemblyInfoInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.AssemblyInfo.cs
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.csproj.CopyComplete
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\refint\PartyGuide.Domain.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\ref\PartyGuide.Domain.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.sourcelink.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\refint\PartyGuide.Domain.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.Domain\obj\Debug\net7.0\PartyGuide.Domain.pdb
