@@ -1,0 +1,35 @@
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.deps.json
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.runtimeconfig.json
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.Common.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.Common.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.AssemblyReference.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.AssemblyInfoInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.AssemblyInfo.cs
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.CopyComplete
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\refint\PartyGuide.DataAccess.dll
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.pdb
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.genruntimeconfig.cache
+C:\Users\IvanD\Downloads\PartyGuide-master (1)\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\ref\PartyGuide.DataAccess.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.deps.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.DataAccess.pdb
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.Common.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\bin\Debug\net7.0\PartyGuide.Common.pdb
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.sourcelink.json
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\refint\PartyGuide.DataAccess.dll
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.pdb
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\PartyGuide.DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\PartyGuide-master\PartyGuide.DataAccess\obj\Debug\net7.0\ref\PartyGuide.DataAccess.dll
